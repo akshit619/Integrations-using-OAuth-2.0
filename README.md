@@ -4,7 +4,7 @@ This repository contains the implementation of a full-stack project focused on b
 
 ## Features
 
-### 1. OAuth Integrations  
+### 1. OAuth and OAuth 2.0 Integrations  
 - Completed OAuth flow for Notion and OAuth 2.0 flow for HubSpot and AirTable.  
 - Implemented authentication functions (`authorize`, `oauth2callback`, and `get_credentials`) in Python using FastAPI for all integrations.  
 - Set up secure handling of client credentials and token exchanges.  
