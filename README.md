@@ -1,11 +1,11 @@
-# OAuth and OAuth 2.0 Integrations and Data Loading for HubSpot, Notion, and AirTable
+# OAuth 2.0 Integrations and Data Loading for HubSpot, Notion, and AirTable
 
-This repository contains the implementation of a full-stack project focused on building and completing integrations for HubSpot, Notion, and AirTable. It features both backend and frontend components, including OAuth and OAuth 2.0 flows for authentication and data retrieval from these platforms.  
+This repository contains the implementation of a full-stack project focused on building and completing integrations for HubSpot, Notion, and AirTable. It features both backend and frontend components, including OAuth 2.0 flows for authentication and data retrieval from these platforms.  
 
 ## Features
 
-### 1. OAuth and OAuth 2.0 Integrations  
-- Completed OAuth flow for Notion and OAuth 2.0 flow for HubSpot and AirTable.  
+### 1. OAuth 2.0 Integrations  
+- Completed OAuth 2.0 flow for Notion and OAuth 2.0 flow for HubSpot and AirTable.  
 - Implemented authentication functions (`authorize`, `oauth2callback`, and `get_credentials`) in Python using FastAPI for all integrations.  
 - Set up secure handling of client credentials and token exchanges.  
 
