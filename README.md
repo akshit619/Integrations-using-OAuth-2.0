@@ -27,14 +27,15 @@ This repository contains the implementation of a full-stack project focused on b
 ## Setup
 
 ### Backend:
-1. Navigate to backend directory
-2. pip install -r requirements.txt
-3. uvicorn main:app
+- Navigate to backend directory
+- virtualenv my_env (to create a virtual environment)
+- pip install -r requirements.txt
+- uvicorn main:app
 
 ### Redis:
-1. redis-server (in shell terminal)
+- redis-server (in shell terminal)
 
 ### Frontend:
-1. navigate to frontend directory
-2. npm i
-3. npm run start
+- navigate to frontend directory
+- npm i
+- npm run start
